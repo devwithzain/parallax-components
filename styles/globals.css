@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+	font-size: 6.25%;
+}
+
+@media (max-width: 1490px) {
+	html {
+		font-size: 5%;
+	}
+}
+@media (max-width: 1060px) {
+	html {
+		font-size: 4.5%;
+	}
+}
+@media (max-width: 768px) {
+	html {
+		font-size: 4%;
+	}
+}
+
+@media (max-width: 400px) {
+	html {
+		font-size: 3%;
+	}
+}
+@media (max-width: 200px) {
+	html {
+		font-size: 2.5%;
+	}
+}
+
+@font-face {
+	font-family: Neglige;
+	src: url("../fonts/Neglige.otf");
+}
+@font-face {
+	font-family: NeueMontreal;
+	src: url("../fonts/NeueMontreal_Medium.otf");
+}

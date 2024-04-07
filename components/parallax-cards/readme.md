@@ -12,4 +12,5 @@
 
 # Preview
 
-![parallax cards demo](parallax-cards-demo.gif)
+![parallax-cards-demo](https://github.com/devwithzain/parallax-components/assets/131141179/a24a1e31-573f-4938-b11f-5083167550d4)
+

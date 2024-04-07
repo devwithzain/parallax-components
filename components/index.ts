@@ -1,1 +1,2 @@
-export { default as Home } from './Home';
+// parallax cards components exports
+export { default as PCHome } from './parallax-cards/Home';

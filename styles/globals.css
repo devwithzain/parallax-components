@@ -4,6 +4,8 @@
 
 html {
 	font-size: 6.25%;
+	background-color: #f1f1f1;
+	overflow: hidden;
 }
 
 @media (max-width: 1490px) {

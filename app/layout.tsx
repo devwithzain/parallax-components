@@ -1,8 +1,8 @@
 import "@/styles/globals.css";
 import type { Metadata } from "next";
 export const metadata: Metadata = {
-	title: "Cards Parallax",
-	description: "Cards Parallax",
+	title: "Parallax Components",
+	description: "Parallax Components Made with ❤️ By Zain Ali.",
 };
 export default function RootLayout({
 	children,

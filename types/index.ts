@@ -12,3 +12,8 @@ export type Tcardsprops = {
    range?: any,
    targetScale?: number;
 };
+
+export type TparallaxProps = {
+   images: string[];
+   y: MotionValue;
+};
